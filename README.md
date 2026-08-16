@@ -1,4 +1,47 @@
-# 📈 Agentic AI Investment Research Assistant
+#    
+<img width="1405" height="621" alt="Screenshot 2026-08-16 at 4 07 22 PM" src="https://github.com/user-attachments/assets/a0833846-b98a-4ee1-bec9-775edb73e9e6" />
+
+
+
+
+<img width="1247" height="638" alt="Screenshot 2026-08-16 at 4 07 42 PM" src="https://github.com/user-attachments/assets/d6ea26ef-dcca-44da-a385-1ca03ab97e52" />
+
+
+<img width="1324" height="376" alt="Screenshot 2026-08-16 at 4 07 51 PM" src="https://github.com/user-attachments/assets/c77f0a3c-9880-4a58-84f5-26682be2c9aa" />
+
+<img width="1355" height="335" alt="Screenshot 2026-08-16 at 4 07 58 PM" src="https://github.com/user-attachments/assets/940d1179-943c-49e7-afb7-2f45a7262902" />
+
+
+
+<img width="1372" height="763" alt="Screenshot 2026-08-16 at 4 08 07 PM" src="https://github.com/user-attachments/assets/02f8a029-8c0a-4ebe-a22b-10a2c3d720b5" />
+
+
+<img width="677" height="772" alt="Screenshot 2026-08-16 at 4 08 16 PM" src="https://github.com/user-attachments/assets/5d1a206e-2d76-4cfa-a199-0b6f3367c446" />
+
+
+
+
+<img width="612" height="589" alt="Screenshot 2026-08-16 at 4 08 23 PM" src="https://github.com/user-attachments/assets/cc38b3e3-68f0-4692-9efe-c1fde5697d36" />
+
+
+
+<img width="1113" height="632" alt="Screenshot 2026-08-16 at 4 08 29 PM" src="https://github.com/user-attachments/assets/0e7f8294-3c76-4ed5-90ef-c2d29bf81d09" />
+
+
+
+<img width="827" height="752" alt="Screenshot 2026-08-16 at 4 08 36 PM" src="https://github.com/user-attachments/assets/bb8f8b72-70a9-4eff-909e-07a8a55b25f5" />
+
+
+
+<img width="943" height="591" alt="Screenshot 2026-08-16 at 4 08 45 PM" src="https://github.com/user-attachments/assets/bcc18f28-bb67-4c39-8214-eddf1719efd2" />
+
+
+<img width="1325" height="699" alt="Screenshot 2026-08-16 at 4 08 55 PM" src="https://github.com/user-attachments/assets/22c084f6-0b77-4afd-9638-bb572db7ef55" />
+
+
+<img width="1383" height="179" alt="Screenshot 2026-08-16 at 4 09 02 PM" src="https://github.com/user-attachments/assets/61d5793a-0de0-46a5-9407-bab965fd2616" />
+
+Agentic AI Investment Research Assistant
 
 > 🤖 An autonomous multi-agent AI system that researches stocks using **LangGraph, LangChain, Groq, live market data, financial news, technical analysis, fundamental analysis, and risk analysis**.
 
@@ -551,13 +594,8 @@ Possible future additions include:
 
 ---
 
-# ⚠️ Disclaimer
+<img width="1405" height="621" alt="Screenshot 2026-08-16 at 4 07 22 PM" src="https://github.com/user-attachments/assets/7f3fad17-fdd1-4097-9b20-e76e55f10508" />
 
-This project is intended for **educational and research purposes only**.
-
-The generated investment assessments are produced automatically by an AI system and **are not personalized financial advice**.
-
-Always perform your own research and consult a qualified financial professional before making investment decisions.
 
 ---
 
